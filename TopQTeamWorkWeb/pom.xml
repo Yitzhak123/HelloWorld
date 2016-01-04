@@ -18,6 +18,12 @@
 	</build>
 	<dependencies>
 		<dependency>
+			<groupId>com.google.inject</groupId>
+			<artifactId>guice</artifactId>
+			<version>3.0</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
 			<artifactId>junit</artifactId>
 			<groupId>junit</groupId>
 			<version>4.10</version>
