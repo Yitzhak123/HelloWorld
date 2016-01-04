@@ -18,8 +18,8 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>com.google.inject.extensions</groupId>
-			<artifactId>guice-assisted-inject</artifactId>
+			<groupId>com.google.inject</groupId>
+			<artifactId>guice</artifactId>
 			<version>3.0</version>
 			<scope>test</scope>
 		</dependency>
